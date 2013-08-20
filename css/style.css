@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url("/img/header.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.jumbotron h1 {
+    color: #FEFEFA;
+    text-shadow: 2px 2px #333;
+}
+
+.jumbotron .container p {
+    color: #FEFEFA;
+    text-shadow: 1px 1px #333;
+}
